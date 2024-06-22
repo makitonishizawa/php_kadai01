@@ -1,0 +1,15 @@
+.h1{
+text-align: center;
+
+}
+
+#upper{
+display: flex;
+justify-content: center;
+margin-bottom: 50px;
+}
+
+#lower{
+    display: flex;
+    justify-content: center;
+}
